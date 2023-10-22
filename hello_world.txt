@@ -1,0 +1,4 @@
+Hello World, 
+This is my testing repository about what git is and how git works
+So far, I'm enjoying 
+Thank you very much!
